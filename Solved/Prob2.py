@@ -1,5 +1,5 @@
 def fibo(n):
-    sum = 0
+	sum = 0
 	a=1
 	b=1
 	while a < n:
